@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f7b5df34d601d1d5ce5aee17",
+  "owner": "neejxxpus",
+  "repo": "page-5029894e31e788bce7206654",
+  "title": "豆猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5029894e31e788bce7206654",
+      "a": "豆猫",
+      "b": "",
+      "entity": "豆猫",
+      "brand": "豆猫",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b1c607f549cc1146613eda8420e42a955c92351fab0696f8e5ae1dfeadfa11bc",
+      "content": {
+        "keyword1": "豆猫",
+        "keyword2": "",
+        "primary_entity": "豆猫",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "豆猫是一间小小的订阅小屋。看板把三档月费、年付算法和设备座位摊开，使用步骤也按朋友聊天的节奏写清楚，方便你慢慢挑一档坐下。",
+          "AI_DESCRIPTION": "豆猫是一间小小的订阅小屋。看板把三档月费、年付算法和设备座位摊开，使用步骤也按朋友聊天的节奏写清楚，方便你慢慢挑一档坐下。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#F4EDE0;color:#2A1418;font-family:\"Songti SC\",\"STSong\",\"PMingLiU\",\"Georgia\",\"Times New Roman\",serif;line-height:1.65}\na{color:#6E1E2A;text-decoration:none}\na:hover{text-decoration:underline}\n.rail{position:fixed;left:0;top:0;bottom:0;width:148px;background:#6E1E2A;color:#F7F1E3;padding:28px 18px;z-index:8;display:flex;flex-direction:column;gap:8px}\n.rail .brandmark{font-size:22px;letter-spacing:.28em;border:3px solid #F7F1E3;padding:10px 8px;margin-bottom:22px;text-align:left}\n.rail nav{display:flex;flex-direction:column;gap:4px}\n.rail nav a{color:#F7F1E3;border:2px solid transparent;padding:8px 6px;font-size:15px}\n.rail nav a:hover{border-color:#F7F1E3;text-decoration:none}\n.rail .aside-note{margin-top:auto;font-size:12px;opacity:.85;line-height:1.5}\n.wrap{margin-left:148px;padding:22px 22px 64px}\nmain{max-width:1120px}\n.dash{display:grid;grid-template-columns:repeat(12,1fr);grid-auto-rows:minmax(78px,auto);gap:12px;margin-bottom:42px}\n.cell{border:4px solid #6E1E2A;background:#F7F1E3;padding:16px 18px;border-radius:0;min-width:0}\n.cell.ink{background:#6E1E2A;color:#F7F1E3}\n.cell.ink a{color:#F7F1E3}\n.span4{grid-column:span 4}\n.span3{grid-column:span 3}\n.span5{grid-column:span 5}\n.span6{grid-column:span 6}\n.span7{grid-column:span 7}\n.span8{grid-column:span 8}\n.span12{grid-column:span 12}\n.k{font-size:12px;letter-spacing:.18em;text-transform:none;opacity:.8;margin-bottom:6px}\n.num{font-size:42px;line-height:1;font-weight:700;font-family:\"Palatino Linotype\",\"Songti SC\",serif}\n.num small{font-size:16px;font-weight:400;margin-left:6px}\nh1{font-size:clamp(40px,7vw,72px);line-height:.9;letter-spacing:.08em;font-weight:700}\nh2{font-size:28px;margin:8px 0 14px;letter-spacing:.12em;border-bottom:4px solid #6E1E2A;display:inline-block;padding-bottom:4px}\nh3{font-size:20px;margin:0 0 10px;letter-spacing:.06em}\np{margin:0 0 12px}\n.section{margin:48px 0}\n.prose{max-width:68ch}\n.steps{display:grid;gap:14px}\n.step{border:4px solid #6E1E2A;background:#F7F1E3;padding:16px 18px;display:grid;grid-template-columns:72px 1fr;gap:12px;align-items:start}\n.step .n{font-size:40px;line-height:1;font-weight:700;color:#6E1E2A}\n.stair{display:flex;flex-direction:column;gap:16px;margin-top:18px}\n.plan{border:4px solid #6E1E2A;background:#F7F1E3;padding:20px 22px;border-radius:0}\n.plan.s1{width:86%}\n.plan.s2{width:93%;margin-left:7%;border-width:5px;background:#F7F1E3}\n.plan.s3{width:100%;margin-left:0;border-width:6px}\n.plan .tag{display:inline-block;border:3px solid #6E1E2A;padding:2px 8px;font-size:12px;letter-spacing:.2em;margin-bottom:8px}\n.plan.featured{background:#6E1E2A;color:#F7F1E3}\n.plan.featured .tag{border-color:#F7F1E3}\n.plan .price{font-size:34px;font-weight:700;line-height:1.1;margin:8px 0}\n.plan .year{font-size:15px;margin-bottom:12px;opacity:.9}\n.plan ul{list-style:none;padding:0}\n.plan li{border-top:2px solid currentColor;padding:8px 0;font-size:16px}\n.clients{display:grid;gap:12px}\n.client{border:4px solid #6E1E2A;padding:16px 18px;background:#F7F1E3}\n.faq-group{margin:18px 0 28px;border:4px solid #6E1E2A;padding:18px;background:#F7F1E3}\n.qa{margin:14px 0;padding-top:12px;border-top:2px solid #6E1E2A}\n.qa:first-of-type{border-top:0;padding-top:0}\n.q{font-weight:700;margin-bottom:6px}\n.foot{margin-top:56px;border-top:4px solid #6E1E2A;padding-top:16px;font-size:14px}\n@media (max-width:860px){\n.rail{position:static;width:100%;flex-direction:row;flex-wrap:wrap;align-items:flex-start;gap:10px;padding:14px}\n.rail .brandmark{margin:0 12px 0 0}\n.rail nav{flex-direction:row;flex-wrap:wrap}\n.rail .aside-note{flex-basis:100%;margin-top:8px}\n.wrap{margin-left:0;padding:16px}\n.span3,.span4,.span5,.span6,.span7,.span8{grid-column:span 12}\n.num{font-size:32px}\n.step{grid-template-columns:1fr}\n.plan.s1,.plan.s2,.plan.s3{width:100%;margin-left:0}\n}\n</style><aside class=\"rail\">\n<div class=\"brandmark\">豆猫</div>\n<nav>\n<a href=\"#overview\">看板</a>\n<a href=\"#why\">来由</a>\n<a href=\"#plans\">阶梯</a>\n<a href=\"#howto\">怎么用</a>\n<a href=\"#clients\">设备</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<p class=\"aside-note\">左侧是目录。手机上它会跑到头顶，你顺着点就行。</p>\n</aside>\n<div class=\"wrap\">\n<main>\n<section id=\"overview\" class=\"dash\">\n<article class=\"cell ink span5\">\n<p class=\"k\">小屋名牌</p>\n<h1>豆猫</h1>\n<p>把看板摊开给你看，不绕弯。</p>\n</article>\n<article class=\"cell span3\">\n<p class=\"k\">档位</p>\n<p class=\"num\">3<small>间小屋</small></p>\n<p>基础、旗舰、团队，一级比一级座位多。</p>\n</article>\n<article class=\"cell span4\">\n<p class=\"k\">起步月费</p>\n<p class=\"num\">15<small>元</small></p>\n<p>基础版按月算的数字，年付是 150 元。</p>\n</article>\n<article class=\"cell span4\">\n<p class=\"k\">中间那档</p>\n<p class=\"num\">35<small>元 / 月</small></p>\n<p>旗舰版。年付 350 元。我自己也常把这档介绍给朋友。</p>\n</article>\n<article class=\"cell ink span4\">\n<p class=\"k\">最大那档</p>\n<p class=\"num\">85<small>元 / 月</small></p>\n<p>团队版年付 850 元，座位按 20 个来排。</p>\n</article>\n<article class=\"cell span4\">\n<p class=\"k\">年付算法</p>\n<p class=\"num\">×10<small>个月</small></p>\n<p>三档都按「月费 × 10」收年费，等于少付两个月的钱。</p>\n</article>\n<article class=\"cell span7\">\n<p class=\"k\">座位一览</p>\n<p>基础版 3 个设备座位 · 旗舰版 5 个 · 团队版 20 个。座位就是能同时打开小屋的位置，分给家人或搭档都行。</p>\n</article>\n<article class=\"cell ink span5\">\n<p class=\"k\">今日想跟你说</p>\n<p>别被表格吓到。你先看数字，再听我把每档能拿到的东西讲一遍。挑不准就从中间那档试，像点菜点个家常的。</p>\n</article>\n<article class=\"cell span6\">\n<p class=\"k\">本月主题包</p>\n<p>手帐页、周记提纲、购物小条、以及一段不长的闲话。旗舰和团队能翻往期归档。</p>\n</article>\n<article class=\"cell span6\">\n<p class=\"k\">入口</p>\n<p>订阅在 <a href=\"#plans\">阶梯</a>。步骤在 <a href=\"#howto\">怎么用</a>。设备说明在 <a href=\"#clients\">设备</a>。想问的先翻 <a href=\"#faq\">问答</a>。</p>\n</article>\n</section>\n\n<section id=\"why\" class=\"section\">\n<h2>为什么叫豆猫</h2>\n<div class=\"prose\">\n<p>嘿，先自我介绍一下。豆猫不是店招上的吉祥物，是这间订阅小屋的名字。豆，是口袋里能数清的那点份量；猫，是你不叫它时它也待在原处的那种安静。</p>\n<p>我把每周要交给你的东西收成主题包：几张能打印也能屏幕上圈画的手帐页，一份不催你打卡的周记提纲，一条购物或散步用的小清单，再加一段短闲话。没有演讲腔，也不假装自己是什么总部。</p>\n<p>你可以把豆猫理解成一位靠谱的朋友替你把桌面收拾出一块空位。忙的时候它不吵；你想坐下来写两行，打开就能接着上次的页码。</p>\n</div>\n</section>\n\n<section id=\"plans\" class=\"section\">\n<h2>订阅阶梯</h2>\n<p class=\"prose\">三档是一级一级垫高的，不是并列叫卖。下面按台阶排：先能住下，再住宽敞，最后给一小组人共用。价格按月写在前，年付跟在后面。年付统一打成十个月的钱。</p>\n<div class=\"stair\">\n<article class=\"plan s1\">\n<p class=\"tag\">第一级</p>\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"year\">按年付是 ¥150 / 年</p>\n<ul>\n<li>每月 1 份当月主题手帐页</li>\n<li>3 个设备座位，可同时打开</li>\n<li>栏目含周记提纲、购物小条、短闲话</li>\n<li>公共留言区，看看别人怎么用这些页</li>\n</ul>\n</article>\n<article class=\"plan s2 featured\">\n<p class=\"tag\">第二级 · 我常推荐</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"year\">按年付是 ¥350 / 年</p>\n<ul>\n<li>每月 3 份主题包，周末另加一页空白格</li>\n<li>5 个设备座位，分给家人刚刚好</li>\n<li>完整栏目，并能翻看往期归档</li>\n<li>来信会排在更靠前的回复队列</li>\n<li>座位可以指定给固定的几个人用</li>\n</ul>\n</article>\n<article class=\"plan s3\">\n<p class=\"tag\">第三级</p>\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"year\">按年付是 ¥850 / 年</p>\n<ul>\n<li>当月主题包可按小组需要反复取用</li>\n<li>20 个设备座位，给工作室或班级留足位置</li>\n<li>共用一本团队手帐，目录可以一起约定</li>\n<li>档期有人对接，改目录结构时能聊清楚</li>\n<li>适合本来就要在同一张桌上写东西的人</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section id=\"howto\" class=\"section\">\n<h2>怎么用</h2>\n<p class=\"prose\">说步骤之前先讲一句：豆猫没有花哨的开通仪式。你选档、记下档位名称、按页面提示走完付款说明即可。下面四步，你可以当清单勾。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<div class=\"n\">01</div>\n<div>\n<h3>对一下自己的节奏</h3>\n<p>一个人写写画画，基础版够用。想把往期也留下、再给家人留座位，就看旗舰。如果是小组要共用目录，直接上团队。挑不准时，先按旗舰想一想，通常不会后悔。</p>\n</div>\n</article>\n<article class=\"step\">\n<div class=\"n\">02</div>\n<div>\n<h3>认准档位名称和价格</h3>\n<p>基础版月付 15、年付 150；旗舰版月付 35、年付 350；团队版月付 85、年付 850。把档位名字抄在备忘里，避免后来对不上。付款入口若尚未公布可靠地址，先不要相信来路不明的代收链接。</p>\n</div>\n</article>\n<article class=\"step\">\n<div class=\"n\">03</div>\n<div>\n<h3>打开你的座位</h3>\n<p>用你常用的手机或电脑浏览器进入小屋页面，登录后座位会占掉一格。换设备就再占一格，直到该档的座位用完。不用的座位可以在说明里释放，把位置让给别人。</p>\n</div>\n</article>\n<article class=\"step\">\n<div class=\"n\">04</div>\n<div>\n<h3>按周把主题包收进角落</h3>\n<p>新的一页通常按周更新。打印、抄到纸本、或者就在屏幕上圈，随你。旗舰和团队能从归档里把上个月的提纲找回来，基础版则专注当月那一份，清爽一些。</p>\n</div>\n</article>\n</div>\n</section>\n\n<section id=\"clients\" class=\"section\">\n<h2>在设备上打开</h2>\n<p class=\"prose\">目前没有经确认的独立安装包或应用商店地址，所以我不把下载按钮画给你看，免得你点到来路不明的文件。下面这些只是使用场景说明：用系统自带的浏览器打开小屋页面即可。</p>\n<div class=\"clients\">\n<article class=\"client\">\n<h3>手机</h3>\n<p>把小屋页面加到主屏幕，当普通网页用。竖屏看提纲很顺；要圈画手帐页，把手机横过来也行。基础版 3 个座位里，建议留一格给这部每天在口袋里的机器。</p>\n<p>安装包地址：暂无可靠来源，链接留空。</p>\n</article>\n<article class=\"client\">\n<h3>电脑</h3>\n<p>大屏幕适合翻归档、改团队目录、把几份主题包并排对照。浏览器开一个窗口就算占一个座位。系统名称不必卡死，能上网、能打开页面就够。</p>\n<p>安装包地址：暂无可靠来源，链接留空。</p>\n</article>\n<article class=\"client\">\n<h3>平板</h3>\n<p>介于手机和电脑之间，适合把周记提纲手写在屏幕上。若你已经用了手机和电脑两个座位，平板会占第三格——基础版刚好满员，旗舰版还有余量。</p>\n<p>安装包地址：暂无可靠来源，链接留空。</p>\n</article>\n</div>\n</section>\n\n<section id=\"faq\" class=\"section\">\n<h2>你可能想问的</h2>\n<p class=\"prose\">我按主题把问题归了堆，免得你在一长串里打转。答案尽量像聊天，有不确定的地方我会直接说还没有可靠信息。</p>\n\n<div class=\"faq-group\">\n<h3>订阅与价钱</h3>\n<article class=\"qa\">\n<p class=\"q\">三档到底差在哪儿？我听人说话容易晕。</p>\n<p>差在两件事：每月能拿到的页数，以及能同时打开的座位数。基础版是 1 份页、3 个座位；旗舰版是 3 份页加周末空白格、5 个座位，还能翻往期；团队版面向一小组人，20 个座位，目录可以一起商量。价钱就是 15、35、85，年付各乘十个月。</p>\n</article>\n<article class=\"qa\">\n<p class=\"q\">年付真的比较划算吗？</p>\n<p>按现在写在阶梯上的算法，年付等于少付两个月。你要是还在试，先按月也完全没问题。别为了所谓划算把自己锁死。</p>\n</article>\n<article class=\"qa\">\n<p class=\"q\">能不能先试用再给钱？</p>\n<p>这一页没有可核对的试用条款，我就不编一套体验流程。你若只是想摸摸手帐页长什么样，先读上面的栏目说明，足够判断合不合自己的笔。</p>\n</article>\n</div>\n\n<div class=\"faq-group\">\n<h3>座位与设备</h3>\n<article class=\"qa\">\n<p class=\"q\">座位用完了怎么办？</p>\n<p>先看是不是有很久没打开的设备还占着。释放一格，新设备就能进来。若三个人天天同时写，基础版会挤，这时再考虑旗舰，比硬挤舒服。</p>\n</article>\n<article class=\"qa\">\n<p class=\"q\">有没有电脑软件或手机应用？</p>\n<p>没有已确认的下载地址，我不会给你伪造一个按钮。请用浏览器打开页面。遇到自称豆猫的安装包，先停一停，核对是不是从你信任的入口来的。</p>\n</article>\n<article class=\"qa\">\n<p class=\"q\">平板和手机算两台吗？</p>\n<p>算。同时打开就各占一格。你可以把平板当手写板、手机当提醒，电脑当归档桌，旗舰版的五个座位刚好覆盖这种小组合。</p>\n</article>\n</div>\n\n<div class=\"faq-group\">\n<h3>主题包和日常</h3>\n<article class=\"qa\">\n<p class=\"q\">主题包是必须打卡的吗？</p>\n<p>不是。提纲只是一张可以忽略的地图。你写三行、涂黑一格、或者这周完全空着，都算你在用豆猫。我比较怕有人因为没打卡而愧疚。</p>\n</article>\n<article class=\"qa\">\n<p class=\"q\">基础版会不会觉得页太少？</p>\n<p>会，也正是它的脾气：一个月就一份，逼你把那几张用旧。若你喜欢囤页、翻去年的提纲，旗舰版的归档更对胃口。</p>\n</article>\n<article class=\"qa\">\n<p class=\"q\">团队版是公司产品吗？</p>\n<p>不是什么总部套餐。它只是把座位和共用目录放大，方便本来就要坐在一起写东西的人。对接档期的意思是有人回消息、帮你们把目录说清楚，不是另立一套机构身份。</p>\n</article>\n</div>\n</section>\n\n<p class=\"foot\">豆猫 · 订阅小屋看板。目录在左侧（手机在头顶）。价格与权益以本页阶梯为准。没有写出来的承诺，就当它暂时不存在。</p>\n</main>\n</div>",
+          "hash": "5d77d95d21705c59aef47ddb83c74092bd338d81631431c9112a5567753d424d",
+          "seo": {
+            "title": "豆猫",
+            "keywords": "豆猫,豆猫小屋,订阅档位,手帐主题包,设备座位,使用说明,常见问题",
+            "description": "豆猫是一间小小的订阅小屋。看板把三档月费、年付算法和设备座位摊开，使用步骤也按朋友聊天的节奏写清楚，方便你慢慢挑一档坐下。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6-build",
+          "design": {
+            "no": "4747",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qibu07.cn",
+    "host": "p-aa09839c56.qibu07.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c2a8e2159ca81b1f1ce5f4416b4f535683712b68aff0fb27292e736549cd46d9",
+    "sitemap.xml": "2ad42e363884d1b140d1690de2b13feec77ad3dc890b0467b1c131423cea4ac2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "05ae84ae50bb8145116f7151d99ffc805dc472b60730e0fd71d0e483c406eaf0",
+    "robots.txt": "a4dea2ea5eda59ea8c6519e6864ee2404949a8e47ec6083f65a98b37be20a7b7",
+    "5b151429057f1f87d092bde2bd4962d8.txt": "904953437ba3374fb64fb96b5140938fa87a672a4e2a5e4dfd02e6790cfe6b6e"
+  },
+  "revision": "ac2f9756034512a95b1a8df64408ae537ec33dea6969ca3891074327f2d42cc7"
+}
